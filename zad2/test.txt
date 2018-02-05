@@ -1,0 +1,7 @@
+./procesy 1 2 3
+./limity 1 2 3
+./limity
+./limity
+./limity
+./limity
+echo     aa

@@ -1,0 +1,9 @@
+#UNKO /home/kaeru/Z3
+#test2
+./procesy 1 2 3
+./procesy
+./main UNKO
+#UNKO
+echo "Unchiii"
+
+echo "Unchiii"
